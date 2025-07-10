@@ -1,18 +1,36 @@
-# Job Trends & Hiring Insights Dashboard (2025)
+# 📊 Job Trends & Hiring Insights Dashboard (2025)
 
-🚀 This Power BI dashboard analyzes job listings across companies, locations, and roles to uncover trends in hiring, salaries, and demand.
+This Power BI dashboard visualizes job listings data to uncover trends in hiring, salary distribution, job roles, and company-wise openings.
 
-### 🔧 Tools Used
-- SQL (PostgreSQL): Data cleaning and queries
-- Excel: Exporting query results
-- Power BI: Visualization and dashboard design
+---
 
-### 📊 Key Visuals
-- Job count by role
-- Salary comparison by title
-- Job openings by company
-- Demand by location
+## 📁 Project Contents
+- `Job_Trends_Hiring_Insights.pbit` – Power BI dashboard template file
+- `job_trends_queries.sql` – SQL queries used in PostgreSQL
+- `dashboard_screenshot.png` – Preview of the Power BI dashboard
 
-### 📎 Files
-- `Job_Trends_Hiring_Insights.pbix` – Power BI file
-- `screenshot.png` – Dashboard preview
+---
+
+## 📌 Key Insights Visualized
+- Top job titles by demand
+- Average salary by job role
+- Jobs by location
+- Company-wise hiring volume
+
+---
+
+## 🧰 Tools Used
+- **PostgreSQL** – SQL queries to analyze job listings
+- **Excel** – Exporting query results for Power BI
+- **Power BI** – Dashboard development and visualization
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+---
+
+🔗 Created by [jai srivastava] – July 2025  
+🔍 Open to data analyst and BI roles 
